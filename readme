@@ -1,0 +1,11 @@
+TASK1
+
+Here we use three functions, 
+one to list all files, 
+the other to list all directories,
+and a third recursive function to collect filenames and repeat for all levels of nested subdirectories.
+
+Task3
+we created a function with two parameters,then we take these two list as sets,
+Then we use if conditions to find common items,
+then we use set diffence function to find L1 not in L2 items.
