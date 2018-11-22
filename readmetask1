@@ -1,0 +1,4 @@
+Here we use three functions, 
+one to list all files, 
+the other to list all directories,
+and a third recursive function to collect filenames and repeat for all levels of nested subdirectories.
